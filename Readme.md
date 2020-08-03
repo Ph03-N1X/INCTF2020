@@ -1,3 +1,3 @@
 # INCTFi 2020 Web Write-up
 
-  - ### Buggy
+  - ### [Buggy](/Buggy/Readme.md)
